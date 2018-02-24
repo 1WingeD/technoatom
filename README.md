@@ -1,2 +1,5 @@
 # technoatom
-perl
+# perl
+
+
+print "qwevbnqaz";
